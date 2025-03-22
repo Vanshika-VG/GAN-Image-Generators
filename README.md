@@ -1,4 +1,4 @@
-##GAN Model Image Generation 
+<h1>GAN Model Image Generation</h1> 
 
 Implemented various types of GAN models like WGAN, DCGAN and CycleGAN
 
